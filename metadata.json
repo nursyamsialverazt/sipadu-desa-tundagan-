@@ -1,0 +1,8 @@
+{
+  "name": "SIPADU Desa Tundagan",
+  "description": "Sistem Informasi Pelayanan Publik, Permohonan Surat, dan Pengaduan Warga Desa Tundagan, Kec. Hantara, Kab. Kuningan dengan penerapan standar keamanan aplikasi web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
